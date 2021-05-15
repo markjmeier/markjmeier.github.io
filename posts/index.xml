@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Mark J Meier</title>
+    <link>https://markjmeier.github.io/posts/</link>
+    <description>Recent content in Posts on Mark J Meier</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Mark J Meier</copyright>
+    <lastBuildDate>Wed, 12 May 2021 21:55:33 -0400</lastBuildDate><atom:link href="https://markjmeier.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Initial Commit</title>
+      <link>https://markjmeier.github.io/posts/initial-commit/</link>
+      <pubDate>Wed, 12 May 2021 21:55:33 -0400</pubDate>
+      
+      <guid>https://markjmeier.github.io/posts/initial-commit/</guid>
+      <description>The intent of this site is to give myself some type of personal/professional presence out of the web. It&amp;rsquo;s been long overdue and something I always kept on a backburner.
+I&amp;rsquo;ll add posts on occasion, but I don&amp;rsquo;t suspect it will be very frequent nor regularly. I&amp;rsquo;ll probably write about running, hiking, and a little bit of my experiences working in tech and growing the customer side of a tech company.</description>
+    </item>
+    
+  </channel>
+</rss>

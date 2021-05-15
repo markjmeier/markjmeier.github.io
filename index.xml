@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mark J Meier</title>
+    <link>https://markjmeier.github.io/</link>
+    <description>Recent content on Mark J Meier</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Mark J Meier</copyright>
+    <lastBuildDate>Wed, 12 May 2021 21:55:33 -0400</lastBuildDate><atom:link href="https://markjmeier.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Work</title>
+      <link>https://markjmeier.github.io/work/</link>
+      <pubDate>Wed, 12 May 2021 22:18:56 -0400</pubDate>
+      
+      <guid>https://markjmeier.github.io/work/</guid>
+      <description>Current  Load Impact AB / k6.io 2015 - Present (Remote)  Head of Customer (CS, PS, Sales) Team Lead, Customer Success Customer Success Manager    Previous  Pereless Systems 2014 - 2015 (Red Bank, NJ)  Manager, Client Success   iCIMS 2012 - 2013 (Matawan, NJ)  Client Relationship Director   Best Buy 2004-2012 (NJ)  Business Account Manager Sales Supervisor/Retail Manager    </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://markjmeier.github.io/about/</link>
+      <pubDate>Wed, 12 May 2021 22:09:46 -0400</pubDate>
+      
+      <guid>https://markjmeier.github.io/about/</guid>
+      <description>Dad. Runner. Hiker.</description>
+    </item>
+    
+    <item>
+      <title>Initial Commit</title>
+      <link>https://markjmeier.github.io/posts/initial-commit/</link>
+      <pubDate>Wed, 12 May 2021 21:55:33 -0400</pubDate>
+      
+      <guid>https://markjmeier.github.io/posts/initial-commit/</guid>
+      <description>The intent of this site is to give myself some type of personal/professional presence out of the web. It&amp;rsquo;s been long overdue and something I always kept on a backburner.
+I&amp;rsquo;ll add posts on occasion, but I don&amp;rsquo;t suspect it will be very frequent nor regularly. I&amp;rsquo;ll probably write about running, hiking, and a little bit of my experiences working in tech and growing the customer side of a tech company.</description>
+    </item>
+    
+  </channel>
+</rss>
